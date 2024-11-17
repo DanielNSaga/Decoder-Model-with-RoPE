@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+train_dataset/
+val_dataset/
+checkpoint.pth
